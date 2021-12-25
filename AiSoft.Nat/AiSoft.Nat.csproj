@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Company>AiSoft</Company>
+    <Version>1.0.0.1</Version>
+    <Copyright>Copyright © AiSoft 2021</Copyright>
+    <Product>AiStock</Product>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
